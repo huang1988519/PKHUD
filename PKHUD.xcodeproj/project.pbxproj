@@ -10,6 +10,7 @@
 		12010C881C3C42A7005DC6FC /* PKHUDStatusProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12010C871C3C42A7005DC6FC /* PKHUDStatusProgressView.swift */; };
 		12010C8A1C3D0E8D005DC6FC /* PKHUDAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12010C891C3D0E8D005DC6FC /* PKHUDAnimation.swift */; };
 		D9DA2BA81C48E890007450AC /* UIViewController+HUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9DA2BA71C48E890007450AC /* UIViewController+HUD.swift */; };
+		D9DA2BB21C48EDEC007450AC /* UIViewController+HUD.swift in Headers */ = {isa = PBXBuildFile; fileRef = D9DA2BA71C48E890007450AC /* UIViewController+HUD.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 		F908BEC01BB849290015E5A8 /* PKHUDSuccessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F908BEBF1BB849290015E5A8 /* PKHUDSuccessView.swift */; };
 		F908BEC31BB84D0B0015E5A8 /* PKHUDAnimating.swift in Sources */ = {isa = PBXBuildFile; fileRef = F908BEC21BB84D0B0015E5A8 /* PKHUDAnimating.swift */; };
 		F908BEC51BB852C60015E5A8 /* PKHUDErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F908BEC41BB852C60015E5A8 /* PKHUDErrorView.swift */; };
@@ -232,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F996322319514FD8001F73CA /* PKHUD.h in Headers */,
+				D9DA2BB21C48EDEC007450AC /* UIViewController+HUD.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
